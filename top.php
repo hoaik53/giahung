@@ -1,4 +1,5 @@
 <!-- menu-->
+<?php /*tao dang test phayt xfs,xjd*/ ?>
 <div id="logo">		
 	<?php
 	$result = get_all("weblinks"," lang = '".get_langID()."' and advertising = 1 ","log desc",0,1);
